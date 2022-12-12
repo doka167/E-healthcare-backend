@@ -1,0 +1,11 @@
+POST http://localhost:3000/institutes
+content-Type: application/json
+
+{
+    "_id" : 5,
+    "name": "Shefa" ,
+    "locationAdress": "5th settlement",
+    "avaliableSpecializations": "All" ,
+    "phoneNumber": "01070809000"
+
+}

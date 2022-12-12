@@ -1,0 +1,14 @@
+POST http://localhost:3000/doctors
+content-Type: application/json
+
+{
+    "_id" : 5,
+    "name": "Malek tarek" ,
+    "birthDate": "1/1/2000",
+    "nationality": "Saudi Arabia" ,
+    "address": "Nasr City",
+    "phoneNumber": "01078932145",
+    "degree": "bachelor",
+    "specialization": "primary care"
+    
+}

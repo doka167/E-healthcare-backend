@@ -1,0 +1,8 @@
+POST http://localhost:3000/MedicalRecords
+
+content-Type: application/json
+
+{
+    
+    
+}

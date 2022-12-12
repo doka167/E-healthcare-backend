@@ -1,0 +1,14 @@
+POST http://localhost:3000/patients
+content-Type: application/json
+
+{
+    "_id" : 5,
+    "name": "Mostafa Gado" ,
+    "birthDate": "5/5/2005",
+    "nationality": "Egypt" ,
+    "address": "Rehab",
+    "phoneNumber": "01065437812",
+    "registerDate": "12/3/2022",
+    "perviousHosbitalization": false
+    
+}

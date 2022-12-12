@@ -1,0 +1,17 @@
+POST http://localhost:3000/HC
+content-Type: application/json
+
+{
+    "patientID":1,
+    "patientName":"Shady Al-Rayes",
+    "reservationDate":"4/12/2022",
+    "reservationScheduledTime":"6:24 a.m",
+    "reservationServiceCode":2,
+    "reservationServiceName":"Ambulance",
+    "serviceProviderInstituteId":1,
+    "serviceProviderInstituteName":"El-Demerdash",
+    "doctorToServeId":1,
+    "doctorToServe":"Omnia Mahmoud",
+    "serviceCost":240,
+    "costPaid": false
+}
